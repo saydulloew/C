@@ -1,0 +1,183 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.box1{
+
+    display: flex;
+    background-color: #438DB8;
+    width: 100%;
+    height: 60px;
+}
+.jo1{
+    display: flex;
+    align-items: center;
+    margin-left: 100px;
+}
+.jo2{
+    width: 24px;
+    height: 24px;
+    margin-top: 20px;
+    margin-left: 10px;
+}
+.jo3{
+    width: 24px;
+    height: 24px;
+    margin-top: 20px;
+    margin-left: 10px;
+
+}
+.jo4{
+    width: 24px;
+    height: 24px;
+    margin-top: 20px;
+    margin-left: 10px;
+}
+.jo5{
+    margin-top: 20px;
+    margin-left: 250px;   
+}
+.jo6{
+    margin-top: 20px;
+    margin-left: 150px;
+}
+.jo7{
+    position: relative;
+    width: 14px;
+    height: 14px;   
+        top: 23px;
+    left: 140px;
+}
+.jo8{
+    margin-top: 16px;
+    margin-left: 22px;
+}
+.jo9{
+    position: relative;
+    width: 14px;
+    height: 14px;   
+    top: 22px;
+    left: 10px;
+}
+.box2{
+    display: flex;
+}
+.jo10{
+    align-items: center;
+    margin-top: 50px;
+    font-size: 36px;
+    margin-left: 100px;
+}
+.jo11{
+   margin-top: 65px;
+   margin-left: 100px;
+}
+.jo12{
+    margin-top: 65px;
+    margin-left: 30px;
+}
+.jo13{
+    margin-top: 65px;
+    margin-left: 30px;
+}
+.jo14{
+    margin-top: 65px;
+    margin-left: 30px;
+}
+.jo15{
+    width: 158px;
+    height: 38px;
+    margin-top: 55px;
+    margin-left: 80px;
+}
+.jo16{
+    width: 38px;
+    height: 38px;
+    margin-top: 55px;
+    margin-left: 5px;
+}
+.box3{
+    width: 100%;
+    margin-top: 40px;
+}
+
+.jo17{
+    margin-top: 100px;
+    margin-left: 100px;
+    font-size: 20px;
+}
+.jo18{
+    margin-top: 30px;
+    margin-left: 100px;
+}
+.jo19{
+    Width:232px;
+    Height:44px;
+    margin-top: 20px;
+    margin-left: 100px;
+    border-radius: 3px;
+    border: 0;
+    background-color:#438DB8;
+}
+.jo20{
+    width: 214px;
+    height: 236px;
+    position: relative;
+    margin-top: -230px;
+    margin-left: 350px;
+}
+.jo21{
+    width: 214px;
+    height: 242px;
+    position: relative;
+    margin-top: -230px;
+}
+.jo22{
+    width: 214px;
+    height: 242px;
+    position: relative;
+    margin-top: -230px;
+}
+.jo23{
+    width: 214px;
+    height: 242px;
+    position: relative;
+    margin-top: -230px;
+}
+.jo24{
+    Width:400px;
+    Height:345px;
+    margin-left: 50px;
+    margin-top: 100px;
+}
+.jo25{
+    Width:350px;
+    Height:345px;
+    margin-left: 5px;
+}
+.jo27{
+    margin-left: 50px;
+    width: 550px;
+    height: 345px;
+}
+.jo28{
+    position: absolute;
+    margin-left: 5px;
+  
+}
+.jo29{
+    font-size: 36px;
+    margin-top: 50px;
+    margin-left: 450px;
+
+}
+.jo30{
+    margin-left: 50px;
+}
+.jo35{
+      margin-left: 50px;
+}
+.jo40{
+    width: 100%;
+    margin-top: 100px;
+}
